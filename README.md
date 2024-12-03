@@ -1,1 +1,1 @@
-my alias is kanata, i'm a [REDACTED] year old male, i can do [REDACTED] and i program in {lisp, julia, python, java, lua, c++}. i have made multiple python projects. i am into hacking and all that and also [REDACTED]. i have made these projects for both, personal use and public use. i have a microsoft certificate for python also. this was written on [REDACTED]
+No, you don't.
