@@ -35,7 +35,6 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=krstht&color=7289DA&logoColor=white&labelColor=7289DA&style=for-the-badge" height="35" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=kanatafriedchicken@gmail.com&color=D14836&logoColor=white&labelColor=D14836&style=for-the-badge" height="35" alt="gmail logo"  />
 </div>
 
