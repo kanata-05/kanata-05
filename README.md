@@ -60,6 +60,6 @@
 
 ###
 
-<h3 align="left">There's a difference between Developers and Hackers.</h3>
+<h3 align="left">catomic bomb</h3>
 
 ###
